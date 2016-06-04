@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<flex-config>
+  <compiler>
+    <locale>
+      <locale-element>en_US</locale-element>
+    </locale>
+  </compiler>
+</flex-config>
