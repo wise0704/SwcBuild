@@ -1,0 +1,10 @@
+Thumbs.db
+*.config
+*.pdb
+*.suo
+*.user
+*.vshost.exe
+*.vshost.exe.manifest
+bin/
+SwcBuild/bin
+SwcBuild/obj
