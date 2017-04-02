@@ -53,7 +53,7 @@
     <GenerateSerializationAssemblies>Auto</GenerateSerializationAssemblies>
     <DebugSymbols>false</DebugSymbols>
     <UseVSHostingProcess>false</UseVSHostingProcess>
-    <LangVersion>6</LangVersion>
+    <LangVersion>default</LangVersion>
     <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <PropertyGroup>
